@@ -15,6 +15,7 @@ As shown in the picture, I hate social medias. So......
 - **YOUTUBE channel**
 - **Sina WEIBO**
 - **LIHKG&HKGOLDEN**
+- **ZHIHU**
 
 These thing are not just stupid. They are platforms for all kind of hatings and Internet violence.
 特定されたいなら、こんなSNSにアカウント作ってもいいよ。
