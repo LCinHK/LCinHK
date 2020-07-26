@@ -19,3 +19,8 @@ As shown in the picture, I hate social medias. So......
 These thing are not just stupid. They are platforms for all kind of hatings and Internet violence.
 特定されたいなら、こんなSNSにアカウント作ってもいいよ。
 [![github stats](https://github-readme-stats.vercel.app/api?username=LCinHK)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## #Blacklivesmatter
+## #Anti[996](https://996.icu)
+
