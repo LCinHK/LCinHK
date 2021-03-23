@@ -24,7 +24,7 @@ These thing are not just stupid. They are platforms for all kind of hatings and 
 [![github stats](https://github-readme-stats.vercel.app/api?username=LCinHK)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## #Yellowlivesmatter
+## #StopAsianHate
 ## #BLM
 ## #Anti[996](https://996.icu)
 
