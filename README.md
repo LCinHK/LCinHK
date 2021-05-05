@@ -14,12 +14,8 @@ As shown in the picture, I hate social medias. So......
 - **REDDIT**
 - **YOUTUBE channel**
 - **Sina WEIBO**
-- **LIHKG&HKGOLDEN**
 - **ZHIHU**
 
-
-
-These thing are not just stupid. They are platforms for all kind of hatings and Internet violence.
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=LCinHK)](https://github.com/anuraghazra/github-readme-stats)
 
