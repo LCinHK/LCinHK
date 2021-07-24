@@ -18,12 +18,6 @@ As shown in the picture, I hate social medias. So......
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=LCinHK)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## #StopAsianHate
-## #BLM
-## #Anti[996](https://996.icu)
-
 ### PGP public key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
