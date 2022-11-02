@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on building a misskey instance
-- 🌱 I’m currently learning java&PHP
-- 📫 How to reach me: 我博客上的[关于](https://blog.alevel.tech/about/)有联系方式
+- 🌱 I’m currently learning nothing
 - ⚡ Fun fact: ![](https://stallman.org/no-facebook.png)
 
 
